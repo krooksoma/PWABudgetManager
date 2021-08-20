@@ -2,7 +2,7 @@
 
 # PWA Budget Manager
 
-[Screenshot](./public/img/budgetscreenshot.png)
+![Screenshot](./public/img/budgetscreenshot.png)
     
 
 ## Table of Contents
