@@ -22,7 +22,7 @@
     finances if you do not have internet connection.
     
     The technologies used to build this application were: HTML, CSS, JavaScript,
-    , browser's indexedDB, MongoDB, Node.JS and Express.js 
+    Browser's indexedDB, MongoDB, Node.JS and Express.js 
 
 ## Installation Instructions
     Installation is not necessary. 
