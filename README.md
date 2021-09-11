@@ -18,7 +18,9 @@
 
 ## Description
     A progressive web app to help you manage your budget. It can be used either online or offline 
-    so you do not have to worry about losing track of your finances if you do not have internet connection..
+    so you do not have to worry about losing track of your finances if you do not have internet connection.
+    
+    The technologies used to build this application were: HTML, CSS, JavaScript, MongoDB, Node.JS and Express.js 
 
 ## Installation Instructions
     Installation is not necessary. 
@@ -37,7 +39,7 @@
 
 ## Questions
     For questions please refer to 
-    ![link](https://github.comundefined)  
+   ![link](https://github.com/krooksoma)  
     or
     romulojusto@gmail.com
     
