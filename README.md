@@ -2,7 +2,7 @@
 
 # PWA Budget Manager
 
-[Deployed application](https://mysterious-anchorage-47746.herokuapp.com/)
+[Link to Deployed application](https://mysterious-anchorage-47746.herokuapp.com/)
 
 ![Screenshot](./public/img/budgetscreenshot.png)
     
@@ -16,15 +16,23 @@
 [Testing Instructions](#test-instructions)
 [License](#license)
 [Questions](#questions)
+[Tools and Technologies](#tools-and-technologies)
     
 
 ## Description
     A progressive web app to help you manage your budget. It can be used either
     online or offline so you do not have to worry about losing track of your 
     finances if you do not have internet connection.
-    
-    The technologies used to build this application were: HTML, CSS, JavaScript,
-    Browser's indexedDB, MongoDB, Node.JS and Express.js 
+            
+## Tools and Technologies
+
+* HTML
+* CSS
+* JavaScript
+* MongoDB
+* Node.js
+* Express.js
+* IndexedDB
 
 ## Installation Instructions
     Installation is not necessary. 
@@ -43,7 +51,7 @@
 
 ## Questions
     For questions please refer to 
-   ![link](https://github.com/krooksoma)  
+[LinkedIn](https://www.linkedin.com/in/romulo-goncalves-45602539/) 
     or
     romulojusto@gmail.com
     
