@@ -1,11 +1,5 @@
-![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=<green>)
-
 # PWA Budget Manager
-
 [Link to Deployed application](https://mysterious-anchorage-47746.herokuapp.com/)
-
-![Screenshot](./public/img/budgetscreenshot.png)
-    
 
 ## Table of Contents
     
@@ -17,6 +11,13 @@
 [License](#license)
 [Questions](#questions)
 [Tools and Technologies](#tools-and-technologies)
+
+
+
+![Screenshot](./public/img/budgetscreenshot.png)
+    
+
+
     
 
 ## Description
