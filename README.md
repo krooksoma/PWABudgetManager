@@ -17,10 +17,12 @@
     
 
 ## Description
-    A progressive web app to help you manage your budget. It can be used either online or offline 
-    so you do not have to worry about losing track of your finances if you do not have internet connection.
+    A progressive web app to help you manage your budget. It can be used either
+    online or offline so you do not have to worry about losing track of your 
+    finances if you do not have internet connection.
     
-    The technologies used to build this application were: HTML, CSS, JavaScript, MongoDB, Node.JS and Express.js 
+    The technologies used to build this application were: HTML, CSS, JavaScript,
+    , browser's indexedDB, MongoDB, Node.JS and Express.js 
 
 ## Installation Instructions
     Installation is not necessary. 
